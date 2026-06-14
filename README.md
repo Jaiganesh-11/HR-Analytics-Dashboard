@@ -69,7 +69,7 @@ https://public.tableau.com/app/profile/jaiganesh.k5883/viz/HRDataAnalyticsDashbo
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](dashboard.png.jpeg)
 
 ---
 
